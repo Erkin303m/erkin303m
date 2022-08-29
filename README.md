@@ -15,5 +15,5 @@ Latest YouTube videos
 
 ###Follow me
 
-![figma](https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma&logoColor=f06292)
+[![figma](https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
 
