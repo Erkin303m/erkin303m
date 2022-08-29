@@ -5,6 +5,6 @@
 Latest YouTube videos
 
 ##Languages and Tools
-![React JS](https://img.shields.io/static/v1?label=&ReactJS=<MESSAGE>&color=090909?style=for-the-badge&logo=react&logoColor=#04d8f9)
+![React JS](https://img.shields.io/static/v1?label=ReactJS=<MESSAGE>&color=090909?style=for-the-badge&logo=react&logoColor=#04d8f9)
 
 Follow me
