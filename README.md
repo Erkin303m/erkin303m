@@ -1,6 +1,7 @@
 [![Header](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)
 
-##I am a Frontend developer with 2 years of experience. <iframe src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a></p>
+##I am a Frontend developer with 2 years of experience. <img src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480" height="480"  class="giphy-embed" allowFullScreen/>
+<p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a></p>
 
 Latest YouTube videos
 
