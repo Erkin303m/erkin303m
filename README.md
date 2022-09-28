@@ -1,9 +1,7 @@
 [![Header](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)
 
 ##I am a Frontend developer with 2 years of experience. 
-<p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a></p>
-
-Latest YouTube videos
+<img  src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47n7i5czjyywnqqs7e4mkmbcagjbcee0irpuuywop1&rid=giphy.gif&ct=s" width="100" />
 
 ###Languages and Tools
 
