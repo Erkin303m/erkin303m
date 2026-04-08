@@ -1,20 +1,68 @@
-[![Header](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)
+<!-- Header Banner (centered) -->
+<p align="center">
+  <a href="https://github.com/Erkin303m">
+    <img src="https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png" alt="Erkin's Banner" width="100%" />
+  </a>
+</p>
 
-## I am a Frontend developer with 4 years of experience. 
-<img  src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47n7i5czjyywnqqs7e4mkmbcagjbcee0irpuuywop1&rid=giphy.gif&ct=s" width="30" />
+<h1 align="center">Hi there, I'm Erkin 👋</h1>
+<p align="center">
+  <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
+</p>
 
-### Languages and Tools
+<p align="center">
+  <strong>🚀 Frontend Developer with 4+ years of experience</strong><br/>
+  I love crafting clean, performant, and user-friendly web applications.
+</p>
 
-![Java Script](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=ffa500)
-![Type Script](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=ffa500)
-![React JS](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
-![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=47C5FB)
-![figma](https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma&logoColor=f06292)
+---
 
+### 👋 Hello,
 
+I have 4 years of experience working on various projects, including SAP B1 implementations, e-commerce platforms, and education-related systems.
 
-### Follow me
+I would be glad to discuss your open position and see how my background could fit your team.
 
-[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
+---
 
+### 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://t.me/MySitesAndPortfolio">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Erkin303m">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Erkin303m&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkin303m&theme=radical" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ “Code is like poetry – every line should have purpose.” ✨</i>
+</p>
