@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Erkin 👋👋</h1>
+<h1 align="center">Hi there, I'm Erkin</h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
 </p>
@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hello,
+## 👋 Hello,
 
 I have 4 years of experience working on various projects, including SAP B1 implementations, e-commerce platforms, and education-related systems.
 
