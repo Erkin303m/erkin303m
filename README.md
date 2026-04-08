@@ -1,8 +1,3 @@
-<!-- Centered profile image - smaller, circular -->
-<p align="center">
-  <img src="https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png" alt="Erkin's Profile Picture" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-</p>
-
 <h1 align="center">Hi there, I'm Erkin 👋👋</h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
