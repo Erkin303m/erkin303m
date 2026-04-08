@@ -1,11 +1,9 @@
-<!-- Header Banner (centered) -->
+<!-- Centered profile image - smaller, circular -->
 <p align="center">
-  <a href="https://github.com/Erkin303m">
-    <img src="https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png" alt="Erkin's Banner" width="100%" />
-  </a>
+  <img src="https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png" alt="Erkin's Profile Picture" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
-<h1 align="center">Hi there, I'm Erkin 👋</h1>
+<h1 align="center">Hi there, I'm Erkin 👋👋</h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
 </p>
@@ -31,6 +29,9 @@ I would be glad to discuss your open position and see how my background could fi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte.js-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,11 +55,10 @@ I would be glad to discuss your open position and see how my background could fi
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erkin303m&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkin303m&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkin303m&theme=radical" width="60%" />
 </p>
 
 ---
