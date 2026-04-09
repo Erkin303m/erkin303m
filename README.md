@@ -12,7 +12,7 @@ I have 4 years of experience working on various projects, including SAP B1 imple
 
 I would be glad to discuss your open position and see how my background could fit your team.
 
---
+---
 
 ### 🛠️ Languages & Tools
 
@@ -31,7 +31,7 @@ I would be glad to discuss your open position and see how my background could fi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
---
+---
 
 ### 📫 Connect with me
 
@@ -44,7 +44,7 @@ I would be glad to discuss your open position and see how my background could fi
   </a>
 </p>
 
---
+---
 
 ### 📈 GitHub Streak
 
