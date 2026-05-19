@@ -5,10 +5,10 @@
 
 <p align="center">
   <strong>🚀 Frontend Developer with 4+ years of experience</strong><br/>
-  I love crafting clean, performant, and user-friendly web applications.
+  I love crafting clean, performance, and user-friendly web applications.
 </p>
 
-I have 4 years of experience working on various projects, including SAP B1 implementations, e-commerce platforms, and education-related systems.
+I have 4+ years of experience working on various projects, including SAP B1 implementations, e-commerce platforms, and education-related systems.
 
 I would be glad to discuss your open position and see how my background could fit your team.
 
