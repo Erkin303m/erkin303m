@@ -36,10 +36,11 @@ I would be glad to discuss your open position and see how my background could fi
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://t.me/MySitesAndPortfolio">
+  <a href="https://t.me/MySitesAndPortfolio" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/Erkin303m">
+
+  <a href="https://github.com/Erkin303m" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
