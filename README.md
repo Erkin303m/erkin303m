@@ -5,7 +5,7 @@
 **Frontend Developer** &nbsp;·&nbsp; 4+ years building for the web
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Frontend%20Developer%20from%20Uzbekistan;4%2B%20years%20building%20production%20web%20apps;React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Svelte;Open%20to%20remote%20opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Frontend%20Developer%20from%20Uzbekistan;4%2B%20years%20building%20production%20web%20apps;React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Redux;Open%20to%20remote%20opportunities" alt="Typing SVG" />
 </p>
 
 <p>
@@ -35,14 +35,14 @@ Over the past **4+ years** I've shipped across three fairly different worlds:
 - **E-commerce** — catalogs, carts and checkout flows, with a focus on conversion and page speed
 - **EdTech** — learning and administration platforms used daily by students and staff
 
-Currently deepening: **React Native**, **Next.js App Router**, and **Svelte**.
+Currently deepening: **React Native** and the **Next.js App Router**.
 
 ```ts
 const erkin = {
   role:      "Frontend Developer",
   focus:     ["performance", "accessibility", "DX"],
-  stack:     ["TypeScript", "React", "Next.js", "Svelte"],
-  learning:  ["React Native", "Svelte 5"],
+  stack:     ["TypeScript", "React", "Next.js", "Redux"],
+  learning:  ["React Native", "App Router", "Testing"],
   available: true,
 };
 ```
@@ -70,7 +70,7 @@ const erkin = {
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,redux,tailwind&perline=5" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=4" alt="Frameworks" />
 
 **Tooling & Design**
 
@@ -88,7 +88,7 @@ const erkin = {
 |---|---|---|---|
 | **Project One** | One line on the problem it solves and who used it. | `Next.js` `TypeScript` `Tailwind` | [Repo](https://github.com/Erkin303m) · [Live](#) |
 | **Project Two** | One line on the problem it solves and who used it. | `React` `Redux` `SAP B1` | [Repo](https://github.com/Erkin303m) · [Live](#) |
-| **Project Three** | One line on the problem it solves and who used it. | `Svelte` `Vite` | [Repo](https://github.com/Erkin303m) · [Live](#) |
+| **Project Three** | One line on the problem it solves and who used it. | `React` `Vite` `Tailwind` | [Repo](https://github.com/Erkin303m) · [Live](#) |
 
 <div align="center">
   <a href="https://github.com/Erkin303m?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="All repos" /></a>
@@ -100,10 +100,12 @@ const erkin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erkin303m&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C9D1D9" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=Erkin303m&hide_border=true&background=0D1117&stroke=21262D&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="165" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erkin303m&theme=github_dark" width="88%" alt="Profile summary" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkin303m&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" height="160" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erkin303m&theme=github_dark" height="150" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erkin303m&theme=github_dark" height="150" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erkin303m&theme=github_dark&utcOffset=5" height="150" alt="Productive time" />
+
 
 </div>
 
@@ -117,10 +119,9 @@ I'm open to **full-time**, **contract**, and **freelance** frontend work — rem
 
 | | |
 |---|---|
-| 💬 **Telegram** | [@MySitesAndPortfolio](https://t.me/MySitesAndPortfolio) |
-| 📧 **Email** | [your.email@example.com](mailto:your.email@example.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle) |
-| 🌐 **Portfolio** | [your-site.com](https://your-site.com) |
+| 💬 &nbsp;**Telegram** | [@MySitesAndPortfolio](https://t.me/MySitesAndPortfolio) |
+| 📧 &nbsp;**Email** | [maxmudjonoverkin1998@gmail.com](mailto:maxmudjonoverkin1998@gmail.com) |
+| 💼 &nbsp;**LinkedIn** | [https://www.linkedin.com](https://www.linkedin.com/in/erkin-makhmudjonov-9690ab236/) |
 
 </div>
 
